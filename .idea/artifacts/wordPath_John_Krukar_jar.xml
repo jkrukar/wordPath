@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="wordPath_John_Krukar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/wordPath_John_Krukar_jar</output-path>
+    <root id="archive" name="wordPath.jar">
+      <element id="module-output" name="wordPath" />
+      <element id="dir-copy" path="$PROJECT_DIR$" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src" />
+    </root>
+  </artifact>
+</component>
